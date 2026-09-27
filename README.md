@@ -3,7 +3,7 @@
 ### 1.	Project Title
 Netflix Movies & TV Shows Data Visualization Dashboard
 
-### 2.	Short Description / Purpose
+### 2.	Short Description
 This Tableau dashboard provides a comprehensive analysis of Netflix’s global content library. It visualizes insights related to movies and TV shows across countries, genres, release years, and ratings — helping users understand Netflix’s content distribution trends and audience targeting patterns.
 
 ### 3.	Tech Stack
